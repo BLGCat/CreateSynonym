@@ -1,1 +1,2 @@
 D:\c++\CreateSynonym\Debug\CreateSynonym.exe
+D:\bi\c++\CreateSynonym\Debug\CreateSynonym.exe
