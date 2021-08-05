@@ -22,6 +22,8 @@
 
 using namespace std;
 
+const string fileList = "Search Engine-Data/___index.txt";
+
 // Global variable
 struct node {
     node();

@@ -7,7 +7,7 @@ void printSynonyms(node* root, ifstream& f) {
 	string word;
 	f >> word;
 	ofstream out;
-	out.open(word + ".txt");
+	out.open("synonym/"+word + ".txt");
 	while (!f.eof()) {
 		string synonym;
 		f >> synonym;
@@ -19,7 +19,6 @@ void printSynonyms(node* root, ifstream& f) {
 }
 
 int main() {
-	string folder = "Search Engine-Data/";
 	//vector<string> FilePath = getAllFileName(folder);
 	vector<string> FilePath = {"words.txt" };
 	node* root = createTree(FilePath);
