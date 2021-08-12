@@ -1,2 +1,5 @@
-Despise
-Loathe
+despise
+disgust
+dislike
+loathe
+revulsion

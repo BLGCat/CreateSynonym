@@ -1,4 +1,7 @@
-Aged
-Used
-Worn
-Dilapidated
+aged
+ancient
+dilapidated
+elderly
+mature
+used
+worn

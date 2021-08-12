@@ -1,4 +1,7 @@
-Display
-Exhibit
-Present
-Note
+demonstrate
+display
+exhibit
+explain
+illustrate
+note
+present

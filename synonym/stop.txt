@@ -1,4 +1,7 @@
-Cease
-Halt
-Stay
-Pause
+cease
+discontinue
+end
+finish
+halt
+pause
+stay

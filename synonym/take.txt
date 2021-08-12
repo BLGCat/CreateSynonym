@@ -1,4 +1,9 @@
-Hold
-Catch
-Seize
-Grasp
+acquire
+catch
+get
+grab
+grasp
+hold
+obtain
+procure
+seize

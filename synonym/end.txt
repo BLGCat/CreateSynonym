@@ -1,4 +1,6 @@
-Stop
-Finish
-Terminate
-Conclude
+complete
+conclude
+conclusion
+finish
+stop
+terminate

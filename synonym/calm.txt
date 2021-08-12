@@ -1,3 +1,6 @@
-Quiet
-Peaceful
-Tranquil
+composed
+peaceful
+quiet
+relaxed
+serene
+tranquil

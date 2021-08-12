@@ -1,4 +1,9 @@
-Portion
-Section
-Fraction
-Fragment
+component
+division
+element
+fraction
+fragment
+ingredient
+piece
+portion
+section

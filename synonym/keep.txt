@@ -1,4 +1,9 @@
-Hold
-Maintain
-Sustain
-Support
+deposit
+hold
+maintain
+retain
+stash
+stock
+store
+support
+sustain

@@ -1,3 +1,10 @@
-Go
-Creep
-Crawl
+budge
+crawl
+creep
+go
+progress
+propel
+shift
+stir
+transport
+travel

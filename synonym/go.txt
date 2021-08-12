@@ -1,4 +1,7 @@
-Recede
-Depart
-Fade
-Disappear
+depart
+disappear
+exit
+fade
+leave
+move
+recede

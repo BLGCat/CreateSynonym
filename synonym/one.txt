@@ -6,6 +6,7 @@ different
 digit
 figure
 i
+individual
 lone
 odd
 only

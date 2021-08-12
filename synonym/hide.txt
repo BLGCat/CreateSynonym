@@ -1,4 +1,6 @@
-Conceal
-Camouflage
-Shroud
-Veil
+camouflage
+conceal
+cover
+secrete
+shroud
+veil

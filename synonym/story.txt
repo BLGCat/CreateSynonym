@@ -1,4 +1,10 @@
-Tale
-Yarn
-Account
-Narrative
+tale
+account
+narrate
+legend
+chronicle
+anecdote
+tale
+yarn
+account
+narrative

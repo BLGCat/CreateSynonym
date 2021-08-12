@@ -1,4 +1,8 @@
-Correct
-Accurate
-Factual
-True
+accurate
+correct
+exact
+factual
+perfect
+precise
+proper
+true

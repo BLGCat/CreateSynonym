@@ -1,4 +1,9 @@
-Hasten
-Urge
-Accelerate
-Bustle
+accelerate
+bustle
+dash
+hasten
+hustle
+rush
+scurry
+urge
+urgency

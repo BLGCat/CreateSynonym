@@ -1,4 +1,5 @@
-Elaborate
-Clarify
-Define
-Interpret
+clarify
+define
+elaborate
+elucidate
+interpret

@@ -1,4 +1,5 @@
-Reply
-Respond
-Retort
-Acknowledge
+acknowledge
+reply
+respond
+response
+retort

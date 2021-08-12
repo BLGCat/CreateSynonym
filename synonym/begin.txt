@@ -1,4 +1,4 @@
-Start
-Open
-Launch
-Initiate
+start
+initiate
+commence
+activate

@@ -1,3 +1,4 @@
-Aid
-Assist
-Encourage
+aid
+assist
+encourage
+facilitate

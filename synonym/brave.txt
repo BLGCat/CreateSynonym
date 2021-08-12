@@ -1,3 +1,7 @@
-Courageous
-Fearless
-Intrepid
+bold
+courageous
+daring
+fearless
+heroic
+intrepid
+valiant
