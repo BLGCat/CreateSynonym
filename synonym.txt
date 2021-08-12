@@ -1,9 +1,5 @@
-thin
-slender
-slim
-skinny
-bony
-lean
-emaciated
-skeletal
-lanky
+write
+draft
+record
+inscribe
+mark
